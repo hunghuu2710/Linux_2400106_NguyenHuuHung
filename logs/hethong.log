@@ -1,0 +1,36 @@
+=== THONG TIN HE THONG ===
+Ten nguoi dung : hung
+Ten may tinh   : DESKTOP-RL3IGDI
+Ngay gio       : 2026-11-26 14:06:21
+Linux Kernel   : 6.18.58.1-microsoft-standard-WSL2
+
+=== DUNG LUONG RAM ===
+               total        used        free      shared  buff/cache   available
+Mem:           3.7Gi       510Mi       3.1Gi       4.1Mi       233Mi       3.2Gi
+Swap:          1.0Gi          0B       1.0Gi
+
+=== DUNG LUONG O DIA ===
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.18.58.1-microsoft-standard-WSL2
+/dev/sdb         97M   97M     0 100% /usr/src/linux-headers-6.18.58.1-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         238G  114G  125G  48% /usr/lib/wsl/drivers
+/dev/sdd       1007G  1.3G  955G   1% /
+none            1.9G   36K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  3.4M  1.9G   1% /init
+none            1.9G  540K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   80K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   80K  1.9G   1% /mnt/wslg/doc
+tmpfs           1.9G     0  1.9G   0% /tmp
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none            1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           380M   12K  380M   1% /run/user/1000
+C:\             238G  114G  125G  48% /mnt/c
+
+=== KIEM TRA KET NOI MANG ===
+Co ket noi mang
+
